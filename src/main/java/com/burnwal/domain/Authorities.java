@@ -1,4 +1,4 @@
-package com.coderscampus.domain;
+package com.burnwal.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

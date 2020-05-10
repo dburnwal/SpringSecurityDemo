@@ -1,4 +1,4 @@
-package com.coderscampus;
+package com.burnwal;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

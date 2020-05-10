@@ -1,4 +1,4 @@
-package com.coderscampus;
+package com.burnwal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

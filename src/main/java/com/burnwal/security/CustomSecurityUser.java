@@ -1,8 +1,8 @@
-package com.coderscampus.security;
+package com.burnwal.security;
 
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.coderscampus.domain.User;
+import com.burnwal.domain.User;
 
 public class CustomSecurityUser extends User implements UserDetails {
   private static final long serialVersionUID = -4381938875186527688L;
